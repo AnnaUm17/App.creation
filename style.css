@@ -83,7 +83,7 @@ body {
 
 .main {
     padding: 0 55% 63px 0;
-    background: top right no-repeat url(Frame.svg);
+    background: top right no-repeat url(img/Frame.svg);
     background-size: 51%;
 }
 
